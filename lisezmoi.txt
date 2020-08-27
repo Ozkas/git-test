@@ -1,2 +1,5 @@
 bienvenu les copains
+HEAD
 je suis dans devA
+je suis dans devB
+devB
